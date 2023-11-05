@@ -46,7 +46,7 @@
     "test": "vitest",
     "lint": "eslint .",
     "prepublishOnly": "nyxr build",
-    "release": "bumpp --commit --push --tag",
+    "release": "bumping --commit --push --tag",
     "start": "nyxr dev && node cli.mjs",
     "typecheck": "tsc --noEmit"
   },
