@@ -9,7 +9,7 @@ const defaultConfig: ChangelogOptions = {
    scopeMap: {},
    types: {
       feat: { title: '🚀 Features' },
-      fix: { title: '🐞 Bug Fixes' },
+      fix: { title: ' 🩹 Bug Fixes' },
       perf: { title: '🏎 Performance' },
    },
    titles: {
